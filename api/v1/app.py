@@ -29,6 +29,7 @@ app.register_blueprint(app_views)
 
 
 # begin flask page rendering
+
 @app.teardown_appcontext
 def teardown_db(exception):
     """

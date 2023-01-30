@@ -40,4 +40,5 @@ curl -X GET http://0.0.0.0:5000/api/v1/[YOUR API REQUEST]
 example:
 ```
 curl -X GET http://0.0.0.0:5000/api/v1/states/
+
 ```
