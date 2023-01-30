@@ -1,4 +1,3 @@
-
 # AirBnB Clone: Phase # 3
 
 : API with Swagger
